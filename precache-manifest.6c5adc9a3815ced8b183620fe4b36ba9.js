@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e34c4fdc122a9ae28357e4f2b7383323",
+    "revision": "6a2252236c20f5a6bdfe17c9f840e459",
     "url": "/konnect-web/index.html"
   },
   {
-    "revision": "c2654f02d341a2fd7423",
-    "url": "/konnect-web/static/css/main.5b2dae89.chunk.css"
+    "revision": "2b46ec1db0e8452df82f",
+    "url": "/konnect-web/static/css/main.3322c3fa.chunk.css"
   },
   {
     "revision": "0caa7dc7078bf0bbebe7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/konnect-web/static/js/2.c2987b2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c2654f02d341a2fd7423",
-    "url": "/konnect-web/static/js/main.f5d5db75.chunk.js"
+    "revision": "2b46ec1db0e8452df82f",
+    "url": "/konnect-web/static/js/main.f5d3bcd5.chunk.js"
   },
   {
     "revision": "9e2c061dd097261c613f",
