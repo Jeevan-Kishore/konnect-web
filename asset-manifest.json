@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/konnect-web/static/css/main.fbc5e9c2.chunk.css",
-    "main.js": "/konnect-web/static/js/main.713a8c37.chunk.js",
-    "main.js.map": "/konnect-web/static/js/main.713a8c37.chunk.js.map",
+    "main.css": "/konnect-web/static/css/main.801fe643.chunk.css",
+    "main.js": "/konnect-web/static/js/main.891a5ecb.chunk.js",
+    "main.js.map": "/konnect-web/static/js/main.891a5ecb.chunk.js.map",
     "runtime-main.js": "/konnect-web/static/js/runtime-main.633d51ec.js",
     "runtime-main.js.map": "/konnect-web/static/js/runtime-main.633d51ec.js.map",
     "static/js/2.4e942626.chunk.js": "/konnect-web/static/js/2.4e942626.chunk.js",
     "static/js/2.4e942626.chunk.js.map": "/konnect-web/static/js/2.4e942626.chunk.js.map",
     "index.html": "/konnect-web/index.html",
-    "precache-manifest.841702301354c694935e959074cb294b.js": "/konnect-web/precache-manifest.841702301354c694935e959074cb294b.js",
+    "precache-manifest.49e0153ebd797055e678712619e8e0c6.js": "/konnect-web/precache-manifest.49e0153ebd797055e678712619e8e0c6.js",
     "service-worker.js": "/konnect-web/service-worker.js",
-    "static/css/main.fbc5e9c2.chunk.css.map": "/konnect-web/static/css/main.fbc5e9c2.chunk.css.map",
+    "static/css/main.801fe643.chunk.css.map": "/konnect-web/static/css/main.801fe643.chunk.css.map",
     "static/js/2.4e942626.chunk.js.LICENSE.txt": "/konnect-web/static/js/2.4e942626.chunk.js.LICENSE.txt",
     "static/media/tree.svg": "/konnect-web/static/media/tree.9f219530.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.633d51ec.js",
     "static/js/2.4e942626.chunk.js",
-    "static/css/main.fbc5e9c2.chunk.css",
-    "static/js/main.713a8c37.chunk.js"
+    "static/css/main.801fe643.chunk.css",
+    "static/js/main.891a5ecb.chunk.js"
   ]
 }
